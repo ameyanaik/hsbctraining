@@ -1,3 +1,5 @@
 Adding a line from master
 
 This is my third file 
+
+This is an addition from training branch
